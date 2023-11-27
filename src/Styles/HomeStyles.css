@@ -1,0 +1,13 @@
+.home {
+  height: 75vh;
+  display: flex;
+  /* justify-content: left;
+  align-items: center; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.headerContainer {
+  width: auto;
+  
+}
