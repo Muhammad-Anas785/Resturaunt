@@ -20,7 +20,7 @@ const App = () => {
       <ThemeProvider theme={darkTheme}>
         <CssBaseline />
         <Routes>
-          <Route path="/" element={<Layout />}>
+          <Route path="/Resturaunt" element={<Layout />}>
             <Route index element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
